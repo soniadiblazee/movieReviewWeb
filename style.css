@@ -1,0 +1,32 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 3;
+    padding: 0;
+    line-height: 1.5;
+    background-color: #e6e9ed;
+    font-size: 90%;
+}
+
+h1 {
+    color: #707d91;
+    text-align: center;
+}
+
+h2 {
+    color: #9ba2ab;
+}
+
+h3 {
+    color: #9ba2ab;
+}
+
+p {
+    color:#25272b
+}
+
+img {
+    max-width: 350px;
+    border-radius: 70%;
+    border-style: outset;
+    border-color:#5f6670;
+}
